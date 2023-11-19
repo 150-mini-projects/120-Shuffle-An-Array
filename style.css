@@ -1,0 +1,27 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: "Poppins", sans-serif;
+  background-color: #ededed;
+}
+
+.container {
+  width: 100%;
+  position: absolute;
+  transform: translate(-50%, -50%);
+  top: 50%;
+  left: 50%;
+  font-size: 6vw;
+  text-align: center;
+  color: #ea1f3a;
+  font-weight: 300;
+}
+
+.container span {
+  color: rgb(29, 29, 33);
+  font-weight: 500;
+}
